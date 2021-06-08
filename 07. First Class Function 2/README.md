@@ -1,4 +1,4 @@
-<h1 align="center">First Class Functions Part 2</h1>
+<h1 align="center">First Class Functions Part 2 Fibonacci</h1>
 
 <h2 align="center"> Assignment Question </h2>
 
