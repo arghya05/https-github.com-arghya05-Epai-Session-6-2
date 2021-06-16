@@ -2,7 +2,7 @@ import random
 import math
 from functools import reduce, partial
 import string
-
+#BEGIN CODING
 # 1. Fibonacci Check
 
 def fibonacci(count:int)->list: 
